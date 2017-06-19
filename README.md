@@ -24,7 +24,7 @@ Tabla de contenido
  * [Capítulo 3: Comportamiento de la ocupación de los puertos en el tiempo](http://nbviewer.jupyter.org/github/dlegor/Tutorial-Pandas-Python/blob/master/Code/Cap%C3%ADtulo_3-Comportamiento%20de%20los%20puertos.ipynb)
  * [Capítulo 4: Eficiecia Terminal](http://nbviewer.jupyter.org/github/dlegor/Tutorial-Pandas-Python/blob/master/Code/Cap%C3%ADtulo_4-Eficiancia_Terminal.ipynb)
  * [Capítulo 5: Informalidad laboral y brecha entre las tasas netas de participacion femenina y masculina. Parte1](http://nbviewer.jupyter.org/github/dlegor/Tutorial-Pandas-Python/blob/master/Code/Capitulo_5.-Informalidad%20laboral%20y%20brecha%20entre%20las%20tasas%20netas%20de%20participacion%20femenina%20y%20masculina.%20Parte1.ipynb)
- * [Capítulo 6: Informalidad laboral y brecha entre las tasas netas de participacion femenina y masculina. Parte2] (http://nbviewer.jupyter.org/github/dlegor/Tutorial-Pandas-Python/blob/master/Code/Captulo_6.-Informalidad%20laboral%20y%20brecha%20entre%20las%20tasas%20netas%20de%20participacion%20femenina%20y%20masculina.%20Parte2.ipynb)
+ * [Capítulo 6: Informalidad laboral y brecha entre las tasas netas de participacion femenina y masculina. Parte2](http://nbviewer.jupyter.org/github/dlegor/Tutorial-Pandas-Python/blob/master/Code/Captulo_6.-Informalidad%20laboral%20y%20brecha%20entre%20las%20tasas%20netas%20de%20participacion%20femenina%20y%20masculina.%20Parte2.ipynb)
  * Capítulo 7
  * Capítulo 8
  
